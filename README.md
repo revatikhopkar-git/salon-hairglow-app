@@ -99,7 +99,7 @@ This project is ideal for:
 ## 📬 Contact
 
 Want to collaborate or learn more?
-Reach out via [LinkedIn]([https://www.linkedin.com/in/revati-khopkar-6449261b/]) or [email](mailto:logically.team@gmail.com)
+Reach out via [LinkedIn](https://www.linkedin.com/in/revati-khopkar-6449261b/) or [email](mailto:logically.team@gmail.com)
 
 ---
 
