@@ -2,7 +2,20 @@
 
 An AI-powered, real-time **virtual hairstyle try-on app** for salons. Built with **React**, **MediaPipe**, and **TailwindCSS**, this prototype demonstrates the ability to overlay dynamic, photorealistic hairstyles aligned to the user's face using real-time facial landmark detection.
 
+
 ---
+
+
+## 📁 Project Versions
+
+| Version | Description                                |
+|---------|--------------------------------------------|
+| [v0-prototype](./v0-prototype) | MVP prototype with real-time webcam, face tracking, and hairstyle overlay |
+
+---
+
+> The project is organized by versions for clarity and future upgrades. Each version lives in its own folder with its own README and codebase.
+
 
 ---
 
