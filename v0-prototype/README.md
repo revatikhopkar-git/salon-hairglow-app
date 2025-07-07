@@ -1,5 +1,16 @@
-# V0 Prototype
+# HairGlow App – v0 Prototype
 MVP version of the HairGlow app
+
+This folder contains the **initial MVP prototype** of the HairGlow app.
+
+---
+
+
+## 🚧 Note
+This is **not the production version**. It is a prototype used for experimentation, feedback, and early demos.
+
+---
+
 
 ## 🛠 Tech Stack
 
@@ -42,3 +53,26 @@ salon-hairglow/
 ├── tailwind.config.js
 └── package.json
 ```
+
+---
+
+## 📌 Credits
+
+* **MediaPipe** for FaceMesh
+* **React Webcam** for live feed
+* Hairstyle PNGs created manually or sourced via free-use hair overlays
+
+---
+
+---
+
+## 📬 Contact
+
+Want to collaborate or learn more?
+Reach out via [LinkedIn](https://www.linkedin.com/in/revati-khopkar-6449261b/) or [email](mailto:logically.team@gmail.com)
+
+---
+
+## 📘 License
+
+MIT License — feel free to use, modify, and expand this project.
