@@ -54,7 +54,7 @@ An AI-powered, real-time **virtual hairstyle try-on app** for salons. Built with
 
 This project is ideal for:
 
-* Salons looking to enhance client consultation
+* Salons looking to optimize client consultation by reducing the consultation time by ~20 minutes; hence increasing productivity by having more hands-on appointment time available
 * Hair stylists showcasing new styles visually
 * AR/AI developers building beauty-tech demos
 
